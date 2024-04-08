@@ -5,7 +5,7 @@ export const Topo = styled.img`
     border-radius: 100%;
   `
 export const Nav = styled.nav`
-background-color: #859e8b;
+background-color: #5d6b60;
   width: 100%;
   padding: 10px;
   justify-content: space-around;
@@ -23,7 +23,7 @@ export const Livro = styled.img`
   width: 300px;  
 `
 export const Rodape = styled.footer`
-  background-color: #859e8b;
+  background-color: #5d6b60;
   width: 100%;
   padding: 5px;
   justify-content: center;
